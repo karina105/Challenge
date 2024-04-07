@@ -2,9 +2,8 @@
 
 - A lo largo del challenge, se utilizaron los lenguajes de programación HTML, CSS y JavaScript para crear un encriptador de texto. Durante el proceso, se implementaron diversas herramientas proporcionadas por cada lenguaje de programación.
 
-- En HTML, se estructuró la página utilizando elementos como:
-  -<header>, <textarea>, <main>, <section>, <button>, entre otros. 
-  -Estos elementos formaron la base de la interfaz de usuario y permitieron la interacción con el texto a encriptar o desencriptar.
+- En HTML, se estructuró la página utilizando elementos como <header>, <textarea>, <main>, <section>, <button>, entre otros.
+  Estos elementos formaron la base de la interfaz de usuario y permitieron la interacción con el texto a encriptar o desencriptar.
 
 - Con CSS, se personalizó la página con fondos, tamaños, posiciones, márgenes, colores, imágenes, entre otros, para lograr una visualización atractiva, estructurada y coherente con los requisitos del challenge.
 
