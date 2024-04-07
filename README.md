@@ -1,4 +1,4 @@
-<h1>My first challenge</h1> 
+<h1>My first Challenge</h1> 
 
 - Throughout the challenge, HTML, CSS, and JavaScript programming languages were utilized to create a text encryptor. Various tools provided by each programming language were implemented during the process.
   
